@@ -14,4 +14,4 @@ _Ejecútalo en tu navegador predeterminado_
 
 ## Autores ✒️
 
-* **Edu Lorenzo** - *Trabajo inicial y documentación*- [edulorenzodev](https://github.com/edulorenzodev)
+* **Edu Lorenzo** - *Trabajo inicial y documentación*- [Edulorenzodev](https://github.com/edulorenzodev)
