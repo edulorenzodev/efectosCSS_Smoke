@@ -11,3 +11,7 @@ _Ejecútalo en tu navegador predeterminado_
 * html
 * CSS
 * [Visual Studio Code](https://code.visualstudio.com/)
+
+## Autores ✒️
+
+* **Edu Lorenzo** - *Trabajo inicial y documentación* - [edulorenzodev] (https://github.com/edulorenzodev)
