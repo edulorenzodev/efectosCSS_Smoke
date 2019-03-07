@@ -4,7 +4,13 @@ _Plantilla para crear una intro en CSS._
 
 ## Instalación :wrench: 
 
-_Ejecútalo en tu navegador predeterminado_
+* _Clona el repositorio en tu equipo_
+
+```bash
+$ git clone https://github.com/edulorenzodev/efectosCSS_Smoke.git
+```
+
+* _Ejecútalo en tu navegador predeterminado_
 
 ## Construido con 🛠 
 
