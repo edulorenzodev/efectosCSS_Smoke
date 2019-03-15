@@ -1,6 +1,6 @@
 # Plantilla CSS :computer:
 
-[![Demo Doccou alpha](../smoke.mp4)](../smoke.mp4)
+[![Demo](/smoke.mp4)](../smoke.mp4)
 
 _Plantilla para crear una intro en CSS._
 
